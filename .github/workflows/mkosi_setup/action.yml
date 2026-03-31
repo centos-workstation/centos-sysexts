@@ -21,4 +21,4 @@ runs:
         popd
 
     - name: setup-mkosi
-      uses: systemd/mkosi@38cbf1e4845ca3bbd4195867cf22032b1bbd32d5
+      uses: systemd/mkosi@5a14e98fce76debb24a5d68d90aeb4d7248d302f
