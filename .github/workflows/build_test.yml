@@ -23,7 +23,7 @@ jobs:
       - name: Setup mkosi workspace
         uses: ./.github/workflows/mkosi_setup
 
-      - uses: extractions/setup-just@v2
+      - uses: extractions/setup-just@v4
 
       - name: Maximize build space
         uses: ublue-os/remove-unwanted-software@v7
